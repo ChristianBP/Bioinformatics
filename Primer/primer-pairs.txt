@@ -1,0 +1,215 @@
+﻿Input PCR template:     NC_012920.1 Homo sapiens mitochondrion, complete genome
+Range:                  7814 - 9014
+Specificity of primers: Primer pairs are specific to input template as no other targets were found in selected database: NCBI Messenger RNA Reference Sequences (Organism limited to Homo sapiens)
+                    
+
+Primer pair 1
+Forward primer Sequence (5'->3'):           CAACTAAATACTACCGTATGGCCC
+Forward primer Template strand:             Plus
+Forward primer Length:                      24
+Forward primer Start:                       8372
+Forward primer Stop:                        8395
+Forward primer Tm:                          59.01
+Forward primer GC%:                         45.83
+Forward primer Self complementarity:        5.00
+Forward primer Self 3' complementarity:     3.00
+Reverse primer Sequence (5'->3'):           AGTTGGGTGATGAGGAATAGTGT
+Reverse primer Template strand:             Minus
+Reverse primer Length:                      23
+Reverse primer Start:                       8442
+Reverse primer Stop:                        8420
+Reverse primer Tm:                          59.15
+Reverse primer GC%:                         43.48
+Reverse primer Self complementarity:        2.00
+Reverse primer Self 3' complementarity:     1.00
+Product length:                             71
+
+Primer pair 2
+Forward primer Sequence (5'->3'):           ACTAAATACTACCGTATGGCCCAC
+Forward primer Template strand:             Plus
+Forward primer Length:                      24
+Forward primer Start:                       8374
+Forward primer Stop:                        8397
+Forward primer Tm:                          59.96
+Forward primer GC%:                         45.83
+Forward primer Self complementarity:        5.00
+Forward primer Self 3' complementarity:     3.00
+Reverse primer Sequence (5'->3'):           TAGTTGGGTGATGAGGAATAGTGT
+Reverse primer Template strand:             Minus
+Reverse primer Length:                      24
+Reverse primer Start:                       8443
+Reverse primer Stop:                        8420
+Reverse primer Tm:                          58.97
+Reverse primer GC%:                         41.67
+Reverse primer Self complementarity:        2.00
+Reverse primer Self 3' complementarity:     1.00
+Product length:                             70
+
+Primer pair 3
+Forward primer Sequence (5'->3'):           GCCCCAACTAAATACTACCGT
+Forward primer Template strand:             Plus
+Forward primer Length:                      21
+Forward primer Start:                       8368
+Forward primer Stop:                        8388
+Forward primer Tm:                          57.45
+Forward primer GC%:                         47.62
+Forward primer Self complementarity:        3.00
+Forward primer Self 3' complementarity:     3.00
+Reverse primer Sequence (5'->3'):           TGGGTGATGAGGAATAGTGTAAG
+Reverse primer Template strand:             Minus
+Reverse primer Length:                      23
+Reverse primer Start:                       8439
+Reverse primer Stop:                        8417
+Reverse primer Tm:                          57.39
+Reverse primer GC%:                         43.48
+Reverse primer Self complementarity:        2.00
+Reverse primer Self 3' complementarity:     0.00
+Product length:                             72
+
+Primer pair 4
+Forward primer Sequence (5'->3'):           CCCAACTAAATACTACCGTATGGC
+Forward primer Template strand:             Plus
+Forward primer Length:                      24
+Forward primer Start:                       8370
+Forward primer Stop:                        8393
+Forward primer Tm:                          59.01
+Forward primer GC%:                         45.83
+Forward primer Self complementarity:        5.00
+Forward primer Self 3' complementarity:     2.00
+Reverse primer Sequence (5'->3'):           GTTGGGTGATGAGGAATAGTGT
+Reverse primer Template strand:             Minus
+Reverse primer Length:                      22
+Reverse primer Start:                       8441
+Reverse primer Stop:                        8420
+Reverse primer Tm:                          57.78
+Reverse primer GC%:                         45.45
+Reverse primer Self complementarity:        2.00
+Reverse primer Self 3' complementarity:     1.00
+Product length:                             72
+
+Primer pair 5
+Forward primer Sequence (5'->3'):           AATACTACCGTATGGCCCACC
+Forward primer Template strand:             Plus
+Forward primer Length:                      21
+Forward primer Start:                       8378
+Forward primer Stop:                        8398
+Forward primer Tm:                          59.30
+Forward primer GC%:                         52.38
+Forward primer Self complementarity:        5.00
+Forward primer Self 3' complementarity:     1.00
+Reverse primer Sequence (5'->3'):           TTTTTAGTTGGGTGATGAGGAATAG
+Reverse primer Template strand:             Minus
+Reverse primer Length:                      25
+Reverse primer Start:                       8447
+Reverse primer Stop:                        8423
+Reverse primer Tm:                          57.06
+Reverse primer GC%:                         36.00
+Reverse primer Self complementarity:        2.00
+Reverse primer Self 3' complementarity:     0.00
+Product length:                             70
+
+Primer pair 6
+Forward primer Sequence (5'->3'):           AACTAAATACTACCGTATGGCCC
+Forward primer Template strand:             Plus
+Forward primer Length:                      23
+Forward primer Start:                       8373
+Forward primer Stop:                        8395
+Forward primer Tm:                          57.78
+Forward primer GC%:                         43.48
+Forward primer Self complementarity:        5.00
+Forward primer Self 3' complementarity:     3.00
+Reverse primer Sequence (5'->3'):           AGTTGGGTGATGAGGAATAGTG
+Reverse primer Template strand:             Minus
+Reverse primer Length:                      22
+Reverse primer Start:                       8442
+Reverse primer Stop:                        8421
+Reverse primer Tm:                          57.51
+Reverse primer GC%:                         45.45
+Reverse primer Self complementarity:        2.00
+Reverse primer Self 3' complementarity:     0.00
+Product length:                             70
+
+Primer pair 7
+Forward primer Sequence (5'->3'):           TAAATACTACCGTATGGCCCACC
+Forward primer Template strand:             Plus
+Forward primer Length:                      23
+Forward primer Start:                       8376
+Forward primer Stop:                        8398
+Forward primer Tm:                          59.68
+Forward primer GC%:                         47.83
+Forward primer Self complementarity:        5.00
+Forward primer Self 3' complementarity:     1.00
+Reverse primer Sequence (5'->3'):           TTTAGTTGGGTGATGAGGAATAGTG
+Reverse primer Template strand:             Minus
+Reverse primer Length:                      25
+Reverse primer Start:                       8445
+Reverse primer Stop:                        8421
+Reverse primer Tm:                          58.59
+Reverse primer GC%:                         40.00
+Reverse primer Self complementarity:        2.00
+Reverse primer Self 3' complementarity:     0.00
+Product length:                             70
+
+Primer pair 8
+Forward primer Sequence (5'->3'):           CTAAATACTACCGTATGGCCCAC
+Forward primer Template strand:             Plus
+Forward primer Length:                      23
+Forward primer Start:                       8375
+Forward primer Stop:                        8397
+Forward primer Tm:                          58.44
+Forward primer GC%:                         47.83
+Forward primer Self complementarity:        5.00
+Forward primer Self 3' complementarity:     3.00
+Reverse primer Sequence (5'->3'):           TTAGTTGGGTGATGAGGAATAGTGT
+Reverse primer Template strand:             Minus
+Reverse primer Length:                      25
+Reverse primer Start:                       8444
+Reverse primer Stop:                        8420
+Reverse primer Tm:                          59.51
+Reverse primer GC%:                         40.00
+Reverse primer Self complementarity:        2.00
+Reverse primer Self 3' complementarity:     1.00
+Product length:                             70
+
+Primer pair 9
+Forward primer Sequence (5'->3'):           AACTAAATACTACCGTATGGCCCAC
+Forward primer Template strand:             Plus
+Forward primer Length:                      25
+Forward primer Start:                       8373
+Forward primer Stop:                        8397
+Forward primer Tm:                          60.45
+Forward primer GC%:                         44.00
+Forward primer Self complementarity:        5.00
+Forward primer Self 3' complementarity:     3.00
+Reverse primer Sequence (5'->3'):           AGTTGGGTGATGAGGAATAGTGTA
+Reverse primer Template strand:             Minus
+Reverse primer Length:                      24
+Reverse primer Start:                       8442
+Reverse primer Stop:                        8419
+Reverse primer Tm:                          58.97
+Reverse primer GC%:                         41.67
+Reverse primer Self complementarity:        2.00
+Reverse primer Self 3' complementarity:     2.00
+Product length:                             70
+
+Primer pair 10
+Forward primer Sequence (5'->3'):           ACTAAATACTACCGTATGGCCC
+Forward primer Template strand:             Plus
+Forward primer Length:                      22
+Forward primer Start:                       8374
+Forward primer Stop:                        8395
+Forward primer Tm:                          57.12
+Forward primer GC%:                         45.45
+Forward primer Self complementarity:        5.00
+Forward primer Self 3' complementarity:     3.00
+Reverse primer Sequence (5'->3'):           TAGTTGGGTGATGAGGAATAGTG
+Reverse primer Template strand:             Minus
+Reverse primer Length:                      23
+Reverse primer Start:                       8443
+Reverse primer Stop:                        8421
+Reverse primer Tm:                          57.39
+Reverse primer GC%:                         43.48
+Reverse primer Self complementarity:        2.00
+Reverse primer Self 3' complementarity:     0.00
+Product length:                             70
+
